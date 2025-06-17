@@ -1,0 +1,15 @@
+{
+  "name": "webhook-redirector",
+  "version": "1.0.0",
+  "description": "Simple redirector for n8n webhook",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
